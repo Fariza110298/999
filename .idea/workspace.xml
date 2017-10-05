@@ -2,50 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ac0f578-df53-4f06-aa55-4e596911edf0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/111.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/123.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/33.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/8353.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/CFS4Dmxu3jk.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/IMG-20160302-WA0030.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/IMG_1217.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/IMG_1442.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/IMG_3770.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/IMG_6295.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/IMG_8682.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/IMG_8814.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/delicious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/feed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flickr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/full_101.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image_l.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/images (1).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/images (2).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/images.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/linkedin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo_comp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/myspace.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/p.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/stumble.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/999.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/mashai2016.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -251,6 +208,14 @@
       <option name="presentableId" value="Default" />
       <updated>1507222594007</updated>
     </task>
+    <task id="LOCAL-00001" summary="123">
+      <created>1507223062172</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1507223062172</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -311,6 +276,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="123" />
+    <option name="LAST_COMMIT_MESSAGE" value="123" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
